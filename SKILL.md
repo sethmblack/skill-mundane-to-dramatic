@@ -3,7 +3,7 @@ name: mundane-to-dramatic
 description: Transform ordinary situations—errands, conversations, minor frustrations—into high-stakes drama through tone, structure, and framing, revealing absurdity through the mismatch between content and de...
 license: MIT
 metadata:
-  version: 1.0.4546
+  version: 1.0.4547
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
